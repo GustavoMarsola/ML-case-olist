@@ -1,2 +1,2 @@
 # learning_ML
-Repo dedicado a armazenar o aprendizado do curso do de ML do Teo Calvo
+Repositório dedicado à um curso sobre Machine Learning, ministrado por TeoCalvo através da plataforma twitch.tv/teomewhy
